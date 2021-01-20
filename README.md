@@ -1,6 +1,6 @@
 ## Description
 
-[Challenge](https://github.com/t10d/fullstack-assessment) T10 Full-stack Engineer Challenge.
+My Personal React Start Pack
 
 ## Installation
 
